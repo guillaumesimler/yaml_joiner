@@ -100,7 +100,7 @@ dependencies:
 - xlsxwriter=0.9.8=py27_0
 - xlwt=1.3.0=py27_0
 - zlib=1.2.11=vc9_0
-  - pip:
+- pip:
   - backports-abc==0.5
   - backports.shutil-get-terminal-size==1.0.0
   - backports.ssl-match-hostname==3.5.0.1
