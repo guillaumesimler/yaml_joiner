@@ -5,7 +5,7 @@
 
 ## Aim of the project
 
-The aim of the project is to **build a small programm to join to yaml file without package problem** 
+The aim of the project is to **build a small programm to join two yaml files without having package problems** 
 
 It will integrate:
 
