@@ -69,6 +69,7 @@ dependencies:
 - tk=8.5.18=vc9_0
 - tornado=4.5.2=py27_0
 - traitlets=4.3.2=py27_0
+- vc=9=0
 - vs2008_runtime=9.00.30729.5054=0
 - wcwidth=0.1.7=py27_0
 - wheel=0.29.0=py27_0
@@ -77,15 +78,32 @@ dependencies:
 - wincertstore=0.2=py27_0
 - zlib=1.2.11=vc9_0
 - pip:
+  - argcomplete==1.8.2
   - backports-abc==0.5
   - backports.shutil-get-terminal-size==1.0.0
   - backports.ssl-match-hostname==3.5.0.1
+  - beautifulsoup4==4.5.3
+  - chardet==2.3.0
+  - distribute==0.7.3
+  - docx2txt==0.6
+  - ebooklib==0.15
   - ipython-genutils==0.2.0
   - jupyter-client==5.1.0
   - jupyter-console==5.2.0
   - jupyter-core==4.3.0
+  - lxml==4.1.0
+  - olefile==0.44
+  - pdfminer==20140328
+  - pillow==4.3.0
+  - pocketsphinx==0.1.3
   - prompt-toolkit==1.0.15
   - pypdf2==1.26.0
+  - python-pptx==0.6.5
+  - slate==0.3
+  - speechrecognition==3.6.3
+  - textract==1.6.1
   - win-unicode-console==0.5
+  - xlrd==1.0.0
+  - xlsxwriter==1.0.2
 prefix: C:\ProgramData\Anaconda2\envs\PDFv1
 
