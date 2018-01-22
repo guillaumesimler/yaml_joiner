@@ -1,0 +1,5 @@
+name: yaml_joiner
+channels:
+- defaults
+prefix: C:\ProgramData\Anaconda2\envs\yaml_joiner
+
