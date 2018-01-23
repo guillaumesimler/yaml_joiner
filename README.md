@@ -1,4 +1,4 @@
-# README **YAML Joiner"**
+# README **YAML Joiner**
 
 ## Important foreword
 
