@@ -100,6 +100,17 @@ dependencies:
 - xlsxwriter=0.9.8=py27_0
 - xlwt=1.3.0=py27_0
 - zlib=1.2.11=vc9_0
+- freetype=2.7=vc9_0
+- geos=3.5.1=vc9_1
+- libspatialindex=1.8.5=vc9_1
+- rtree=0.8.3=py27_0
+- shapely=1.6.1=py27_0
+- tbb=2017_20170226=vc9_0
+- freeimageplus=3.17.0=vc9_0
+- gl2ps=1.3.8=vc9_0
+- oce=0.18.1=vc9_1
+- pythonocc-core=0.18=py27_vc9_0
+- smesh=6.7.4=vc9_0
 - pip:
   - backports-abc==0.5
   - backports.shutil-get-terminal-size==1.0.0
@@ -132,4 +143,11 @@ dependencies:
   - textract==1.6.1
   - xlrd==1.0.0
   - xlsxwriter==1.0.2
-prefix: C:\ProgramData\Anaconda2\envs\proto_bal
+  - aocutils==0.3.0
+  - aocxchange==0.3.0
+  - datetime==4.2
+  - networkx==1.11
+  - trimesh==2.14.20
+  - wxpython==4.0.0b1
+  - zope.interface==4.4.2
+  - xlsxwriter==1.0.2
